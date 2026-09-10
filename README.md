@@ -1,4 +1,4 @@
-<img src="./developer_tools.png" style="height: 50%; width:100%;"/>
+<img src="./developer_tools.png" style="height: 50%; width:90%;"/>
 
 # Hi there 👋
 ## I'm Luis Lugo
