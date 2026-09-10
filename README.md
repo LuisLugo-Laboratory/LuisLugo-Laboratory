@@ -1,3 +1,5 @@
+<img src="./developer_tools.png" style="height: 50%; width:50%;"/>
+
 # Hi there 👋
 ## I'm Luis Lugo
 
