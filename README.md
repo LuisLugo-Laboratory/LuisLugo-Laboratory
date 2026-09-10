@@ -8,7 +8,7 @@
 #### Broad experience with programming languages, Frameworks, and data bases, as well as system support and maintenance for enterprise systems. Additionally, basic knowledge in developing native Android mobile applications.
 
 
-🔭 I’m currently working on upload a project, conecting git with github
+🔭 I’m currently working on upload a project, conecting git with github </br>
 🌱 I’m currently learning Flutter Apps developing
 😄 I've been taking a course about Python
 ⚡ In some weeks I'm going to learn about Firebase
