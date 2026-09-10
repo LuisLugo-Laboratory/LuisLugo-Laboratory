@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Luis Lugo
 
-Developer/ Programmer/ Data Bases/ User Support/ Technical Support and System Maintenance.
+# Developer/ Programmer/ Data Bases/ User Support/ Technical Support and System Maintenance.
 Full Stack Developer with over 7 years of experience in software development and professional application and system design.
 Broad experience with programming languages, Frameworks, and data bases, as well as system support and maintenance for enterprise systems. Additionally, basic knowledge in developing native Android mobile applications.
 
