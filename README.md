@@ -1,5 +1,11 @@
 ## Hi there 👋
 ## I'm Luis Lugo
+
+Developer/ Programmer/ Data Bases/ User Support/ Technical Support and System Maintenance.
+Full Stack Developer with over 7 years of experience in software development and professional application and system design.
+Broad experience with programming languages, Frameworks, and data bases, as well as system support and maintenance for enterprise systems. Additionally, basic knowledge in developing native Android mobile applications.
+
+
 🔭 I’m currently working on upload a project, conecting git with github
 <!--
 **LuisLugo-Laboratory/LuisLugo-Laboratory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
